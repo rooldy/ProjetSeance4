@@ -1,3 +1,6 @@
-from dotenv import dotenv_values
+from dotenv import dotenv_values, load_dotenv
 
-CONFIG = dotenv_values(".env")
+load_dotenv()
+
+CONFIG = dotenv_values("class-4/.env")
+print(CONFIG.values())
