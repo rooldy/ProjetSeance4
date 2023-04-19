@@ -21,6 +21,7 @@ Pour réaliser ce projet j'ai fait le choix d'utiliser un environnement virtuel 
 
 Il a été demandé de créer une instance de rabbitmq qui est souvent utilisé dans les architectures de microservices pour gérer la communication entre les différents services. Il peut également être utilisé pour les applications de traitement en arrière-plan, les systèmes de messagerie instantanée et les systèmes de notification.
 On a crée un fichier .env qui contient toutes les informations de connexions et par la suite on a exécuté la commande:
-docker-compose --env-file .env -f docker-compose.yml -p data-stream up -d
+
+    docker-compose --env-file .env -f docker-compose.yml -p data-stream up -d
  
    
