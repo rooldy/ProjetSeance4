@@ -13,5 +13,7 @@ Pour réaliser ce projet j'ai fait le choix d'utiliser un environnement virtuel 
          <br/>windows : .\venv\Scripts\activate
         <br/> mac ou linux :source ./venv/bin/activate
         
+     <br/> Dans un fichier requirements.txt j'ai ajouté toutes les librairies que j'aurai besoin pour réaliser ce projet et il suffira dans lancer la commande 
+     pip install -r requirements.txt pour les installer.
  
    
