@@ -10,6 +10,8 @@ Pour réaliser ce projet j'ai fait le choix d'utiliser un environnement virtuel 
    <br/> 2-Lancer la commande pip install --upgrade pip ou python -m pip install --upgrade pip
    <br/> 3-Créer un environnement virtuel avec la commande : python -m venv venv
   <br/>  4-Activer l'environnement virtuel avec la commande :
-      <br/>windows : .\venv\Scripts\activate
-     <br/> mac ou linux :source ./venv/bin/activate
+         <br/>windows : .\venv\Scripts\activate
+        <br/> mac ou linux :source ./venv/bin/activate
+        
+ 
    
